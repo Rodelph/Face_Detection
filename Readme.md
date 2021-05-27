@@ -1,4 +1,4 @@
-This code gives you the ability to store your images in the recogt_Rcs File under your name, and then use
+This code gives you the ability to store your images in the recog_Rsc File under your name, and then use
 those images to train the program to recognize each person when he faces the camera. 
 
 You will need to install opencv-python library as well as, opencv-contrib in order to compile the code.
